@@ -1,0 +1,13 @@
+{
+  "name": "pdf-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Juani Viola",
+  "license": "MIT",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "puppeteer": "^3.0.2"
+  }
+}
